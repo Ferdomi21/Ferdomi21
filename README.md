@@ -1,6 +1,6 @@
 ### Hi there, I am Fernando 👋
 
-![banner](https://github.com/Ferdomi21/Ferdomi21/assets/127745280/37fca1d2-fbbf-465a-bfbd-c72f45107acd)
+![banner2](https://github.com/Ferdomi21/Ferdomi21/assets/127745280/62459bde-f910-48b5-b86e-d17cbda41a87)
 
 <!--
 **Ferdomi21/Ferdomi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
